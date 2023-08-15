@@ -18,6 +18,6 @@ As a Mechanical Engineering graduate of the class of 2022, I've always been fasc
 ## Ambitions and Aspirations
 As an individual who thrives in collaborative environments, I'm excited to bridge the gap between my mechanical engineering background and my Java Full Stack development skills. My enthusiasm for innovation and my commitment to delivering high-quality solutions have always set me apart. 
 I'm actively seeking new opportunities as a Java Full Stack Developer. I'm eager to connect and explore how my skill set and experiences can add value to your organization. Don't hesitate to reach out, and let's embark on this journey of innovation and growth together.
-Thank you for stopping by and taking the time to get to know me a little better. Let's connect and make great things happen!
-Best regards,
+Thank you for stopping by and taking the time to get to know me a little better. Let's connect and make great things happen!                                                                                                  
+Best regards,                                                                                                                                                                                                                   
 Dinesh Dixit(Mechatron)
