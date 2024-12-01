@@ -1,25 +1,24 @@
-# Mechanical Engineer Turned Java Full Stack Developer
-Hello there! Welcome to my GitHub profile. I'm thrilled to have you here and share a bit about myself. I hold a Bachelor's degree in Mechanical Engineering, and I've taken a unique path by combining my passion for software development with my mechanical engineering expertise. Let me give you a brief overview of who I am and what I bring to the table.
-## About Me
-As a Mechanical Engineering graduate of the class of 2022, I've always been fascinated by how things work and the intricacies of design. While pursuing my degree, I discovered a strong interest in software development, particularly in the realm of Java Full Stack Development. This passion led me to explore various technologies and frameworks to build robust applications.
-## Skills Snapshot
-- **Java**: I'm proficient in the Java programming language, and I've honed my skills in crafting scalable and efficient applications.
-- **Full Stack Development**: I have a solid foundation in end-to-end development using Java frameworks such as Spring Boot and Hibernate. Crafting RESTful APIs is second nature to me.
-- **Angular**: I've gained hands-on experience in building dynamic and responsive web applications using Angular, coupled with my expertise in HTML, CSS, and JavaScript.
-- **Database Management**: I'm well-versed in handling MySQL databases, ensuring optimal data storage and retrieval strategies.
-- **Problem-Solving**: My analytical and problem-solving abilities are strong, and I'm always eager to deliver innovative and efficient solutions.
-- **Project Management**: With a proven track record of successfully completing projects within stipulated timelines, I excel in coordinating teams and ensuring top-notch deliverables.
-## Notable Projects
-- **Task-Assignment**: I developed a web-based task management system using Java, Spring Boot, and JSP. This project was a significant undertaking during my time at Symbiosis Digital Academy while completing the Full Stack Java course.
-- **Resume-Builder**: I've created a web application that leverages Java, RESTful APIs, and Angular to streamline the process of creating effective resumes in less time.
-## Professional Development
-- **Full Stack Java Course**: I completed an intensive training program covering various facets of Java programming, including Spring Boot, Hibernate, and front-end development using Angular.
-- **Angular Course**: I successfully completed a comprehensive course dedicated to Angular, thereby acquiring expertise in constructing dynamic and responsive web applications.
-## Ambitions and Aspirations
-As an individual who thrives in collaborative environments, I'm excited to bridge the gap between my mechanical engineering background and my Java Full Stack development skills. My enthusiasm for innovation and my commitment to delivering high-quality solutions have always set me apart. 
-I'm actively seeking new opportunities as a Java Full Stack Developer. I'm eager to connect and explore how my skill set and experiences can add value to your organization. Don't hesitate to reach out, and let's embark on this journey of innovation and growth together.
-Thank you for stopping by and taking the time to get to know me a little better. Let's connect and make great things happen!                                                                                                  
-Best regards,                                                                                                                                                                                                                   
-Dinesh Dixit(Mechatron)
+<h1 align="center">Hi 👋, I'm Dinesh Dixit</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/mechatron?style=social)](https://peerlist.io/mechatron)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mechatron00" alt="mechatron00" /></a> </p>
+
+- 📫 How to reach me **dixitdinesh52@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mechatron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mechatron" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechatron00&show_icons=true&locale=en&layout=compact" alt="mechatron00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mechatron00&show_icons=true&locale=en" alt="mechatron00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechatron00&" alt="mechatron00" /></p>
